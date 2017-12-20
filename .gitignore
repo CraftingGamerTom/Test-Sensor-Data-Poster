@@ -7,3 +7,4 @@ target/*
 # Eclipse Miscellaneous
 .classpath
 .project
+/target/
