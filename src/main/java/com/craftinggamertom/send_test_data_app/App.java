@@ -45,7 +45,7 @@ public class App {
 
 		try {
 
-			HttpPost request = new HttpPost("http://192.168.1.2:8090/sensorData");
+			HttpPost request = new HttpPost("http://localhost:8090/sensorData");
 			StringEntity params = new StringEntity(jsonString);
 			request.addHeader("test-data", "application/x-www-form-urlencoded");
 			request.setEntity(params);
