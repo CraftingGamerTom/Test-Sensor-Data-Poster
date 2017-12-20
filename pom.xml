@@ -4,7 +4,7 @@
 
 	<groupId>com.craftinggamertom</groupId>
 	<artifactId>send-test-data-app</artifactId>
-	<version>0.0.5-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>send-test-data-app</name>
